@@ -41,3 +41,31 @@
 - 11:00-13:00 — Swimming / cardio, else math
 - 13:00-20:00 — Math
 - 20:00-22:00 — School for next week
+
+
+## What actually happened
+
+### Wednesday
+- 13:00-14:00 — Hang out with friends
+- 14:00-17:00 — Climbing
+- 18:40-22:00 — Math
+
+### Thursday
+- Changed Workout 3
+- 15:00-17:00 — Hang out
+- 18:00-22:00 — Computer science (OI)
+
+### Friday
+- 14:00-16:00 — Hangout
+- 17:00-18:00 — Swim
+- 19:00-21:00 — Computer science (OI)
+
+### Saturday
+- Did nothing at all
+
+### Sunday
+- 10:00-14:00 — Polish
+- 14:00-15:00 — Dummscroll
+- 15:00-18:00 — GitHub, planning
+- 18:00-18:30 — German
+- Rest of the day — Math
